@@ -1,0 +1,75 @@
+1.10 Livonia Building, Hunting, Farming & Surviving  xml Mod Changelog & Terms Of Use
+
+Limited Testing on PS4 Chernarus Nitrado Private Server DAYZ Version 1.10 Dec 2020.
+
+These xmls are a simple port of my Chernarus ones, with only the vehicle events adjusted.
+
+Created by @scalespeeder. Please report bugs & errors to scalespeeder@gmail.com with screenshots.
+
+TERMS OF USE
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
+OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH
+THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Using these modded xml files could break the functioning of your DAYZ server, requiring a reinstall that would wipe
+all player progress.
+
+Using these modded xml files neccessitates increased regular restarts to prevent server crashing.
+
+It is suggested you thoroughly test your server after applying these files to ensure proper
+functioning of your server.
+
+THEME: Before the Zombie Apocalypse overan the country, large transport trucks & small 4x4's were sent into Chernarus packed with building materials to help the military, local services and the general populace secure their homes and prepare defences. Civilians also started to prepare for food shortages by filling their vehicles with food, hunting, fishing and cooking items so they could attempt to become self suffiecient. 
+
+Apart from exceptions below, loot is vanilla - making survival a real challenge unless you find the tools to hunt, fish or farm. Powerful weapons are still increased, but not by much.
+
+Extra loot is based around finding vehicles, which are plentiful - which should make this set of xmls much easier to update, but still give some quality of life improvements for beginners.
+
+This will be a harder DayZ than the one offered in previous xml mod packs I have created - but as the theme of Offical 1.10 is to take DayZ down a more survival path, I wanted to follow that too. You'll have to scavenge more for resources - food, weapons and ammo.
+
+CHANGELOG:
+
+Items spawn in pristine. DONE. 
+
+More animals to hunt.DONE.
+
+LOADS of trucks complete and with building stuff. (Match Spawn Points) DONE.
+
+ADA 4 x 4s complete and with gas - and lots of building equipment. (Match Spawn Points) DONE.
+
+CARS complete and with gas - compass - map - water bottle - can of drink - knife - whetstone - tins of food - can opener - lighter - gas - gas cooker - water purification - cooking pot (1/4 possible spawns) (Match Spawn Points) DONE.
+
+Olga (CivilianSedan) as above, with fishing rod , 2 hooks, DONE.
+
+Gunter (Hatchback) as above, with blaze, scope and ammo. DONE.
+
+Sarka (Sedan_02) as above with spade, lime, packs of seeds. DONE.
+
+Added 2 more bears. Added 2 more wolf packs. DONE.
+
+Increased potential heli crash sites x 3. DONE.
+
+Dynamic Event Loot Weapons Doubled. inc LAR (FAL) VSS & VSD (SVD), including mags. Now all only counted on map, not on player. DONE.
+
+Nails increased by x2. DONE
+
+Duct Tape & sharpening stone spawns increased by x 2. DONE.
+
+Increased number of Axes x 2. DONE.
+
+Coloured & black varients of KA74's and M4s now spawn in, as well as camo Mosins. Tier (3 & 4) DONE.
+
+Magazines spawn with significantly more ammo. DONE.
+
+Guns should spawn with mags, if they take one. DONE.
+
+Some surprises. - books - swords - pumpkin helms - weed - alchol - cigs DONE.
+
+GOOD LUCK!
+
+
+
+
