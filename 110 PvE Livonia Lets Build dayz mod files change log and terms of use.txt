@@ -2,8 +2,6 @@
 
 Limited Testing on PS4 Chernarus Nitrado Private Server DAYZ Version 1.10 Dec 2020.
 
-These xmls are a simple port of my Chernarus ones, with only the vehicle events adjusted.
-
 Created by @scalespeeder. Please report bugs & errors to scalespeeder@gmail.com with screenshots.
 
 TERMS OF USE
@@ -24,7 +22,7 @@ functioning of your server.
 
 THEME: Before the Zombie Apocalypse overan the country, large transport trucks & small 4x4's were sent into Chernarus packed with building materials to help the military, local services and the general populace secure their homes and prepare defences. Civilians also started to prepare for food shortages by filling their vehicles with food, hunting, fishing and cooking items so they could attempt to become self suffiecient. 
 
-Apart from exceptions below, loot is vanilla - making survival a real challenge unless you find the tools to hunt, fish or farm. Powerful weapons are still increased, but not by much.
+Apart from exceptions below, loot is vanilla - making survival a real challenge unless you find the tools to hunt, fish or farm.
 
 Extra loot is based around finding vehicles, which are plentiful - which should make this set of xmls much easier to update, but still give some quality of life improvements for beginners.
 
@@ -33,8 +31,6 @@ This will be a harder DayZ than the one offered in previous xml mod packs I have
 CHANGELOG:
 
 Items spawn in pristine. DONE. 
-
-More animals to hunt.DONE.
 
 LOADS of trucks complete and with building stuff. (Match Spawn Points) DONE.
 
@@ -48,25 +44,6 @@ Gunter (Hatchback) as above, with blaze, scope and ammo. DONE.
 
 Sarka (Sedan_02) as above with spade, lime, packs of seeds. DONE.
 
-Added 2 more bears. Added 2 more wolf packs. DONE.
-
-Increased potential heli crash sites x 3. DONE.
-
-Dynamic Event Loot Weapons Doubled. inc LAR (FAL) VSS & VSD (SVD), including mags. Now all only counted on map, not on player. DONE.
-
-Nails increased by x2. DONE
-
-Duct Tape & sharpening stone spawns increased by x 2. DONE.
-
-Increased number of Axes x 2. DONE.
-
-Coloured & black varients of KA74's and M4s now spawn in, as well as camo Mosins. Tier (3 & 4) DONE.
-
-Magazines spawn with significantly more ammo. DONE.
-
-Guns should spawn with mags, if they take one. DONE.
-
-Some surprises. - books - swords - pumpkin helms - weed - alchol - cigs DONE.
 
 GOOD LUCK!
 
