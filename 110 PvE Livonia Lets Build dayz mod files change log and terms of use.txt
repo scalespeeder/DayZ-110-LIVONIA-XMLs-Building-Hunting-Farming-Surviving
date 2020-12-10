@@ -20,7 +20,7 @@ Using these modded xml files neccessitates increased regular restarts to prevent
 It is suggested you thoroughly test your server after applying these files to ensure proper
 functioning of your server.
 
-THEME: Before the Zombie Apocalypse overan the country, large transport trucks & small 4x4's were sent into Chernarus packed with building materials to help the military, local services and the general populace secure their homes and prepare defences. Civilians also started to prepare for food shortages by filling their vehicles with food, hunting, fishing and cooking items so they could attempt to become self suffiecient. 
+THEME: Before the Zombie Apocalypse overan the country, large transport trucks & small 4x4's were sent into Livonia packed with building materials to help the military, local services and the general populace secure their homes and prepare defences. Civilians also started to prepare for food shortages by filling their vehicles with food, hunting, fishing and cooking items so they could attempt to become self suffiecient. 
 
 Apart from exceptions below, loot is vanilla - making survival a real challenge unless you find the tools to hunt, fish or farm.
 
